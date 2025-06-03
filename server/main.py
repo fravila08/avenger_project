@@ -1,2 +1,2 @@
-def say_hello():
-  print("Hello Avenger, this is Francisco")
+def greet_avenger()->str:
+  return "Hello Avenger, this is Francisco"
